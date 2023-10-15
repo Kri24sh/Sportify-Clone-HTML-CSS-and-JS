@@ -1,5 +1,4 @@
 console.log('welcome to spotify');
-console.log('welcome to spotify yo');
 let song_index = 0;
 let main_bgcolor = document.querySelector('.container');
 let footer_bgcolor = document.querySelector('.sound_bar');
